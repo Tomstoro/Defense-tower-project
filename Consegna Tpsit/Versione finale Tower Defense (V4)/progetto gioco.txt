@@ -1,0 +1,20 @@
+3 torri
+ogni torre 1 bgw
+giocatori: da 3 in su
+ogni giocatore è gestito da un bgw
+2 bottoni: start stop
+i giocatori tutti gestiti dal computer
+
+Come funziona:
+ogni torre attacca nel suo turno le torri nemiche  (si fa con l'utilizzo del comando lock)
+ogni torre ha dei punti vita
+ogni attacco toglie 1 punto vita
+quando una torre non ha più vita non può più attaccare
+
+
+
+Consegna: 1°FEBBRAIO
+Relazione (fase iniziale dove parliamo delle regole del gioco e di come lo voglio strutturare, il durante, cioè le modifiche
+alle regole iniziali mentre programmiamo, fase finale con le modifiche finali e spiegando i problemi riscontrati e 
+come li abbiamo risolti
+

@@ -1,0 +1,68 @@
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe.config
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csprojAssemblyReference.cache
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Form1.resources
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Properties.Resources.resources
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.GenerateResource.cache
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.CoreCompileInputs.cache
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\4H\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Menù.resources
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe.config
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.pdb
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.AssemblyReference.cache
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Form1.resources
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Menù.resources
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Properties.Resources.resources
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.GenerateResource.cache
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.CoreCompileInputs.cache
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.exe
+E:\TPSIT\Progetti\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe.config
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csprojAssemblyReference.cache
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Form1.resources
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Menù.resources
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Properties.Resources.resources
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.GenerateResource.cache
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.CoreCompileInputs.cache
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\Progetto TPSIT 2022\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe.config
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csprojAssemblyReference.cache
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Form1.resources
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Menù.resources
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Properties.Resources.resources
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.GenerateResource.cache
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.CoreCompileInputs.cache
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\4H\TPSIT\Progetto TPSIT 2022 V3\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe.config
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csprojAssemblyReference.cache
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Form1.resources
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Menù.resources
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Properties.Resources.resources
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.GenerateResource.cache
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.CoreCompileInputs.cache
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\backup progetto tpsit\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.SchermataIniziale.resources
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe.config
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\bin\Debug\Progetto TPSIT 2022.pdb
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csprojAssemblyReference.cache
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Form1.resources
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Menù.resources
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.Properties.Resources.resources
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto_TPSIT_2022.SchermataIniziale.resources
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.GenerateResource.cache
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.csproj.CoreCompileInputs.cache
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.exe
+C:\Users\133098\Desktop\Consegna Tpsit\Versione finale Tower Defense (V4)\Progetto TPSIT 2022\obj\Debug\Progetto TPSIT 2022.pdb
